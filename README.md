@@ -16,7 +16,7 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/vit%C3%ria-maria-rodrigues-de-souza-891272273?utm_source=share&utm_campai.gn=share+via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a href="hhtps//www.instagram.com/toialovespaodequeijo?igsh=NHQxc3J5eTNob3Y%3D&utm_source=qr" target="_blank">
+  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
@@ -27,3 +27,4 @@
 <p align="left">Ola mundo! Eu sou a Vitoria 👻<br>Sou iniciante no mundo da programação e estou aprendendo a criar aplicativos e sites com java. Gosto de estudar novas tecnologias e estou sempre buscando melhorar minhas habilidades. <br><3</p>
 
 ###
+![Uploading image.png…]()
