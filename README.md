@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<p align="left">Ola mundo! Eu sou a Vitoria 👻<br>Sou iniciante no mundo da programação e estou aprendendo a criar aplicativos e sites. No momento estou me aprofundando em Front-End, com JavaScrip, CSS e HTML :). Gosto de estudar novas tecnologias e estou sempre buscando melhorar minhas habilidades. <br><3</p>
+<p align="left">Ola mundo! Eu sou a Vitoria 👻<br>Sou iniciante no mundo da programação e estou aprendendo a criar aplicativos e sites. No momento estou me aprofundando em Front-End, com JavaScript, CSS e HTML :). Gosto de estudar novas tecnologias e estou sempre buscando melhorar minhas habilidades. <br><3</p>
 
 ###
 
